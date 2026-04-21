@@ -6,8 +6,8 @@ doc_types=(
     "quarterly" 
     # "semiannual" 
     # "annual_amended" 
-    # "quarterly_ammended" 
-    # "semiannual_ammended"
+    # "quarterly_amended" 
+    # "semiannual_amended"
 )
 for year in {2019..2019}
 do 
