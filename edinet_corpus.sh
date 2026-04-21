@@ -5,7 +5,7 @@ doc_types=(
     # "annual" 
     "quarterly" 
     # "semiannual" 
-    # "annual_ammended" 
+    # "annual_amended" 
     # "quarterly_ammended" 
     # "semiannual_ammended"
 )
